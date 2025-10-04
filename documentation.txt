@@ -1,0 +1,4 @@
+1- download repo in folder n8n-server 
+2- add ngrok token in .env file 
+3- turn on docker app
+4- run ./start-n8n.sh
