@@ -2,3 +2,5 @@
 2- add ngrok token in .env file in variable NGROK_AUTHTOKEN
 3- turn on docker app
 4- run ./start-n8n.sh
+
+edit project
