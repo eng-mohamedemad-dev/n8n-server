@@ -3,4 +3,3 @@
 3- turn on docker app
 4- run ./start-n8n.sh
 
-edit project
